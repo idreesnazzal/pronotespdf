@@ -1,10 +1,17 @@
-# ProNotes — Complete Codebase (PDF Edition)
+# ProNotes — Complete Codebase (PDF & Source Edition)
 
-High-resolution, searchable PDF documentation of the entire **ProNotes** codebase (Infinite Whiteboard & Knowledge Canvas), split into chunks of ~80 pages for readability and fast browsing.
+High-resolution, searchable PDF documentation and full source code of the entire **ProNotes** codebase (Infinite Whiteboard & Knowledge Canvas), split into chunks of ~80 pages for readability and fast browsing.
 
 - **Source Commit:** [`6a369da`](https://github.com/idreesnazzal/pronotesdev/commit/6a369da) (*"Shape recognition: turn hand-drawn shapes into exact ones"*)
 - **Total Codebase:** **194 files** | **75,751 lines of code** | **1,025 pages**
-- **Format:** Vector PDF with interactive bookmarks and monospace code formatting.
+- **Full Source ZIP:** 📦 [`pronotes-codebase.zip`](./pronotes-codebase.zip) *(1.88 MB — All code, assets, and configs)*
+
+---
+
+## 📦 Full Codebase Download
+You can download the entire source code repository as a single clean zip archive:
+- **Download:** [**`pronotes-codebase.zip`**](./pronotes-codebase.zip)
+- Includes all source files (`src/`, `electron/`, `android/`, `scripts/`, `public/`, `assets/`, `tests/`), configuration files, icons, and documentation at commit `6a369da`.
 
 ---
 
@@ -29,6 +36,7 @@ High-resolution, searchable PDF documentation of the entire **ProNotes** codebas
 ---
 
 ## 🔍 Features Included
+- **Full Source ZIP Archive:** Complete project files available in `pronotes-codebase.zip`.
 - **Clickable Bookmarks:** Every file in each PDF is registered as a clickable outline entry in the document sidebar.
 - **Monospace Code Typography:** Clean Courier rendering with line numbers, file banners, and soft wrapping for long lines.
 - **Hardware-Friendly Size:** Split into lightweight files (~170 KB each) for easy viewing on tablets, mobile devices, and browsers.
